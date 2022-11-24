@@ -1,4 +1,5 @@
 # PlayUI-Exercise
 exercise layout on android studio
 
-![muter](./result/result.jpg)
+![alt text](./result/result.jpg)
+
